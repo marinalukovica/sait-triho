@@ -1,0 +1,11 @@
+:root {
+    --color-background: #0f1010;
+    /* --color-background:#191919; */
+    --color-header: #002c43;
+    --color-text: white;
+    --color-button-menu: rgb(102, 154, 184);
+    --color-modal: rgba(0,0,0,0.7);
+    --color-text_0: rgb(102, 154, 184);
+    --color-text_1: rgb(68, 155, 80); 
+    --font-size: 24px;
+  }
